@@ -1,0 +1,23 @@
+.mainCard{
+    width: 650px;
+    height: 535px;
+    background: rgba(255, 255, 255, 0.6);
+    border-radius: 15px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-items: center;
+    flex-basis: auto;
+
+    h1{
+        display: flex;
+        width: 100%;
+        justify-content: center;
+        font-family: 'Poppins';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 40px;
+        color: #000000;
+    }
+}
